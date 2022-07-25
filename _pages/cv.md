@@ -16,49 +16,40 @@ If you want to download my CV, click [here](https://JuyeopHan.github.io/files/CV
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+* M.S. in Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), 2021 - 2023
+* B.S. in Mechanical and Aerospace Engineering, Seoul National University (SNU), 2015 - 2021
+  * Spending 2 years for mandatory military service    
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar. 2021 - present : Research Assistant
+  * Lab for information and Control Systems (LiCS)
+  * Supervisor: Prof. Han‑Lim Choi, KAIST
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun. 2020 - Aug. 2020 : Research Intern
+  * Innovative Design and Integrated Manufacturing Lab (IDIM)
+  * Supervisor: Prof. Sung-Hoon Ahn, SNU
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python, MATLAB
+* Libraries & Tools: ROS, CUDA, Pytorch, LaTeX, SolidWorks
+* Languages: Korean(Native), English(Fluent)
 
 Publications
 ======
+
+TBD
+
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Nov. 2017 - Aug. 2019 : Unit Supply Specialist, Sergeant
+  * 2nd Infantry Division, US Army
+
+* Sep. 2018 - Feb. 2021 : Leadership Faculty
+  * DALISHA (SNU Running Crew)   
