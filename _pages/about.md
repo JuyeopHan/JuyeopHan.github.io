@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome!! I am Juyeop Han.    
-    
-    
-I recieved B.S. in Mechanical and Aerospace Engineering at Seoul National University, where I wrote my undergraduate thesis under Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php).
-
-I am    
- &nbsp; 1) a **Master's student** in Aerospace Engineering at KAIST from March 2021, being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/)
- &nbsp; 2)and a **visiting scholar** at Ann and H.J. Smead Aerospace Engineering Sciences, CU Boulder from October 2022, being advised by Prof. [Zachary Sunberg](https://zachary.sunberg.net/).
+Welcome!! I am **Juyeop Han**:    
+&nbsp; 1)I recieved B.S. in Mechanical and Aerospace Engineering at Seoul National University, where I wrote my undergraduate thesis under Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php).    
+ &nbsp; 2)I am a **Master's student** in Aerospace Engineering at KAIST from March 2021, being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/)    
+ &nbsp; 3)I am a **visiting scholar** at Ann and H.J. Smead Aerospace Engineering Sciences, CU Boulder from October 2022, being advised by Prof. [Zachary Sunberg](https://zachary.sunberg.net/).
 
 My research interest is  
  &nbsp; 1) **Guaranteeing safety** in fields of control system and machine learning    
