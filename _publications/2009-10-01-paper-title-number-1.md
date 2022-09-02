@@ -11,4 +11,4 @@ citation: '<u>**J. Han**</u>, M. Tahk, and H. Choi, “Pseudospectral method-bas
 
 [Download paper here](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2545)
 
-<u>**J. Han**</u>, M. Tahk, and H. Choi, “Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment” <i>AIAA Science and Technology Forum (Scitech)<\i>, 2022.
+<u>**J. Han**</u>, M. Tahk, and H. Choi, “Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment” <i>AIAA Science and Technology Forum (Scitech)</i>, 2022.
