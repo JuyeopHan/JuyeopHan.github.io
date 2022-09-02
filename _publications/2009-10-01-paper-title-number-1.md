@@ -2,6 +2,7 @@
 title: "Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'Citation: J. Han, M. Tahk, and H. Choi, “Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment” AIAA Science and Technology Forum (Scitech), 2022.'
 date: 2022-01-05
 venue: 'AIAA Scitech'
 ---
