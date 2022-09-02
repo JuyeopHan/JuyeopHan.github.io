@@ -15,7 +15,7 @@ I recieved my undergraduate degree in Mechanical and Aerospace Engineering at Se
 
 My research interest is  
 **1)** filling gap between theory and real-world application in robotics and multi-agent system  
-#**2)** guaranteeing safety with robotic perception and learning  
-#**3)** Versatile robotic operation in dynamic environment  
+**2)** guaranteeing safety with robotic perception and learning  
+**3)** Versatile robotic operation in dynamic environment  
 
 I am also a recipient of Korean Government Scholarship(2023 - 2025) which provides USD 40,000 each year for studying abroad.
