@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-01-05
+venue: 'AIAA Scitech 2022'
+paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2022-2545'
+citation: '**<U>J. Han<\U>**, M. Tahk, and H. Choi, “Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment” <i>AIAA Science and Technology Forum (Scitech)<\i>, 2022.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2545)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+**<U>J. Han<\U>**, M. Tahk, and H. Choi, “Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment” <i>AIAA Science and Technology Forum (Scitech)<\i>, 2022.
