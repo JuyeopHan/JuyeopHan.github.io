@@ -13,4 +13,4 @@ I I am pursuing M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi]
 My research interest:    
  &nbsp; 1) **Guaranteeing safety** in fields of control system and machine learning    
  &nbsp; 2) **Integration** between control system and robotic perception    
- &nbsp; 3) **Theoretical and practical approaches** for real-world application in robotics including multi-agent system
+ &nbsp; 3) **Theoretical and practical approaches** for real-world application in robotics
