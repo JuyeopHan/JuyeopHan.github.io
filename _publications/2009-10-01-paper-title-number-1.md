@@ -8,4 +8,4 @@ venue: 'AIAA Scitech'
 
 [Link](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2545)
 
-__**J. Han**__, M. Tahk, and H. Choi, “Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment” *AIAA Science and Technology Forum (Scitech)*, 2022.
+Citation: **J. Han**, M. Tahk, and H. Choi, “Pseudospectral method-based safe motion planning for quadrotors in a cluttered environment” *AIAA Science and Technology Forum (Scitech)*, 2022.
