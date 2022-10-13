@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-If you want to download my CV, click [here](https://JuyeopHan.github.io/files/CV_JuyeopHan_20220725.pdf).
+If you want to download my CV, click [here](https://JuyeopHan.github.io/files/CV_JuyeopHan_20221012.pdf).
