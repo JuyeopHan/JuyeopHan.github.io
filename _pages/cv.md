@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl: https://JuyeopHan.github.io/files/CV_JuyeopHan_20220725.pdf
+paperurl: https://JuyeopHan.github.io/files/CV_JuyeopHan_20221012.pdf
 redirect_from:
   - /resume
 ---
