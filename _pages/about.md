@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-I I am pursuing M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/) and  recieved B.S. degree in MAE at Seoul National University under the supervision of Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php). Currently, I am a visiting scholar at Ann and H.J. Smead Aerospace Engineering Sciences, CU Boulder from October 2022, being advised by Prof. [Zachary Sunberg](https://zachary.sunberg.net/).
+I am pursuing M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/) and  recieved B.S. degree in ME at Seoul National University under the supervision of Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php). Currently, I am a visiting scholar at Ann and H.J. Smead Aerospace Engineering Sciences, CU Boulder from October 2022, being advised by Prof. [Zachary Sunberg](https://zachary.sunberg.net/).
 
 My research interest:    
  &nbsp; 1) **Guaranteeing safety** and **verification** in fields of control system and machine learning    
