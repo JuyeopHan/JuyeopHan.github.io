@@ -15,10 +15,7 @@ My research interest:
  &nbsp; 2) **Integration theoretical and practical approaches** for real-world application in robotics    
  &nbsp; 3) General and fundamental **research applicable to various fields** such as robotics, control theory, machine learning, and optimization
  
- 
-   
-   
-   
+ <br/> <br/> <br/>
   &nbsp; &nbsp; &nbsp; &nbsp; **News**
  
  * My paper on *[DS-K3DOM: 3-D Dynamic Occupancy Mapping with Kernel Inference and Dempster-Shafer Evidential Theory*](https://arxiv.org/abs/2209.07764)* has been accepted for presentation at ICRA 2023. (*16 JAN 2023*)
