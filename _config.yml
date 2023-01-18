@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Juyeop Han"
 title_separator          : "-"
 name                     : &name "Juyeop Han"
-description              : &description "Graduate Student at KAIST"
+description              : &description "MS Student at KAIST"
 url                      : https://juyeophan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JuyeopHan.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Juyeop Han"
   avatar           : "juyeophan.jpg"
   bio              : "Master student in AE @ KAIST / Visiting Scholar in AE @ CU Boulder"
-  location         : "Daejeon, South Korea / Boulder, Colorado"
+  location         : "Daejeon, S. Korea / Boulder, CO"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5Ox5W38AAAAJ"
