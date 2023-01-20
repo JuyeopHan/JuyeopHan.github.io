@@ -3,11 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl: https://JuyeopHan.github.io/files/CV_JuyeopHan_20230117.pdf
+paperurl: https://JuyeopHan.github.io/files/CV_JuyeopHan_20230120.pdf
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-If you want to download my CV, click [here](https://JuyeopHan.github.io/files/CV_JuyeopHan_20230117.pdf).
+If you want to download my CV, click [here](https://JuyeopHan.github.io/files/CV_JuyeopHan_20230120.pdf).
