@@ -18,4 +18,6 @@ My research interest:
  <br/> <br/> <br/>
   &nbsp; &nbsp; &nbsp; &nbsp; **News**
  
+ * My paper on *[Computing Forward Reachable Sets for Nonlinear Adaptive Multirotor Controllers](https://arxiv.org/abs/2209.07780)* has been accepted for presentation at ACC 2023. (*20 JAN 2023*)
+ 
  * My paper on *[DS-K3DOM: 3-D Dynamic Occupancy Mapping with Kernel Inference and Dempster-Shafer Evidential Theory](https://arxiv.org/abs/2209.07764)* has been accepted for presentation at ICRA 2023. (*16 JAN 2023*)
