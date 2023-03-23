@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Juyeop Han, a researcher at KAIST.
 
-I recieved M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/) and B.S. degree in ME at Seoul National University under the supervision of Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php). I worked as a visiting scholar at CU Boulder, where I collaborated with Professor [Zachary Sunberg](https://zachary.sunberg.net/) between October 2022 and February 2023.
+I recieved M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/) and B.S. degree in ME at Seoul National University under the supervision of Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php). I worked as a visiting scholar at CU Boulder, where I collaborated with Prof. [Zachary Sunberg](https://zachary.sunberg.net/) between October 2022 and February 2023.
 
 My research interest:    
  &nbsp; 1) **Guaranteeing or Maximizing safety** in fields of robotics and machine learning    
