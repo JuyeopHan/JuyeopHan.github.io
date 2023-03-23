@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
-I am a visiting scholar at Ann and H.J. Smead Aerospace Engineering Sciences, CU Boulder from October 2022, being advised by Prof. [Zachary Sunberg](https://zachary.sunberg.net/). I recieved M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/) and B.S. degree in ME at Seoul National University under the supervision of Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php). 
+
+Hi! I am Juyeop Han, researcher at KAIST.
+
+I recieved M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/) and B.S. degree in ME at Seoul National University under the supervision of Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php). I worked as a visiting scholar at CU Boulder, where I collaborated with Professor [Zachary Sunberg](https://zachary.sunberg.net/) between October 2022 and February 2023.
 
 My research interest:    
  &nbsp; 1) **Guaranteeing or Maximizing safety** in fields of robotics and machine learning    
@@ -17,6 +19,8 @@ My research interest:
  
  <br/> <br/> <br/>
   &nbsp; &nbsp; &nbsp; &nbsp; **News**
+ 
+ * Our proposal on RSS workshop *[Inference and Decision Making for Autonomous Vehicles (IDMAV)" has been accepted](https://sites.google.com/view/idmav-workshop-rss-2023/home?authuser=1)* (*21 MAR 2023*)
  
  * My paper on *[Computing Forward Reachable Sets for Nonlinear Adaptive Multirotor Controllers](https://arxiv.org/abs/2209.07780)* has been accepted for presentation at ACC 2023. (*20 JAN 2023*)
  
