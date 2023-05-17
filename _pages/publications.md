@@ -12,15 +12,18 @@ author_profile: true
 
 
 
+
 [**DS-K3DOM: 3-D Dynamic Occupancy Mapping with Kernel Inference and Dempster-Shafer Evidential Theory**](https://arxiv.org/abs/2209.07764)   
-**Juyeop Han\***, Youngjae Min\*, Hyeok-Joo Chae, Byeong-Min Jeong, Han-Lim Choi   
+**Juyeop Han\***, Youngjae Min\*, Hyeok-Joo Chae, Byeong-Min Jeong, Han-Lim Choi (\*equal contribution)   
 2023 IEEE International Conference on Robotics and Automation (ICRA)
+
 
 
 
 [**Pseudospectral Method-based Safe Motion Planning for Quadrotors in a Cluttered Environment**](https://arc.aiaa.org/doi/abs/10.2514/6.2022-2545)   
 **Juyeop Han**, Min-Jea Tahk and Han-Lim Choi   
  AIAA SCITECH 2022 Forum
+
 
 
 
