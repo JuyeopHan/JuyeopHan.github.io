@@ -13,7 +13,7 @@ author_profile: true
 
 
 [**DS-K3DOM: 3-D Dynamic Occupancy Mapping with Kernel Inference and Dempster-Shafer Evidential Theory**](https://arxiv.org/abs/2209.07764)   
-**Juyeop Han**, Min-Jea Tahk and Han-Lim Choi   
+**Juyeop Han\***, Youngjae Min\*, Hyeok-Joo Chae, Byeong-Min Jeong, Han-Lim Choi   
 2023 IEEE International Conference on Robotics and Automation (ICRA)
 
 
