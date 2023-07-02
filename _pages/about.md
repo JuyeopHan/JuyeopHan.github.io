@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Juyeop Han, a researcher at KAIST.
+Hi! I am Juyeop Han, an incoming Ph.D. student at Mechanical Engineering, MIT.
 
 I recieved M.S. degree in AE at KAIST being advised by Prof. [Han-Lim Choi](https://lics.kaist.ac.kr/) and B.S. degree in ME at Seoul National University under the supervision of Prof. [Sung-hoon Ahn](https://fab.snu.ac.kr/team/professor.php). I worked as a visiting scholar at CU Boulder, where I collaborated with Prof. [Zachary Sunberg](https://zachary.sunberg.net/) between October 2022 and February 2023.
  
