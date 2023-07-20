@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Juyeop Han"
 title_separator          : "-"
 name                     : &name "Juyeop Han"
-description              : &description "Researcher at KAIST"
+description              : &description "Ph.D. Student at MIT"
 url                      : https://juyeophan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JuyeopHan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Juyeop Han"
   avatar           : "juyeophan.jpg"
-  bio              : "Researcher at KAIST"
-  location         : "Daejeon, S. Korea"
+  bio              : "Ph.D. Student at MIT"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5Ox5W38AAAAJ"
-  email            : "jyhan@lics.kaist.ac.kr"
+  email            : "jyhan@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/juyeophan/"
   orcid            : "https://orcid.org/0000-0002-7853-3451"
   pinterest        :
   soundcloud       :
