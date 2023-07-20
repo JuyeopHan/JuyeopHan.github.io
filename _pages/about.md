@@ -15,7 +15,7 @@ I recieved MS degree in Aerospace Engineering at [Korea Advanced Institute of Sc
  <br/> <br/> <br/>
   &nbsp; &nbsp; &nbsp; &nbsp; **News**
  
- * **21 MAR 2023** - Our proposal on RSS workshop *[Inference and Decision Making for Autonomous Vehicles (IDMAV)](https://sites.google.com/view/idmav-workshop-rss-2023/home?authuser=1)* has been accepted 
+ * **21 MAR 2023** - Our proposal on RSS workshop *[Inference and Decision Making for Autonomous Vehicles (IDMAV)](https://sites.google.com/view/idmav-workshop-rss-2023/home?authuser=1)* has been accepted.
  
  * **20 JAN 2023** - My paper on *[Computing Forward Reachable Sets for Nonlinear Adaptive Multirotor Controllers](https://arxiv.org/abs/2209.07780)* has been accepted for presentation at ACC 2023. 
  
