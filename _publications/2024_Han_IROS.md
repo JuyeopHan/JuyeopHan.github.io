@@ -1,6 +1,6 @@
 ---
 title: "NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification"
-authors: "Juyeop Han, Lukas Lao Beyer, Guilherme V. Cavalheiro, Sertac Karaman"
+authors: "Juyeop Han, Lukas Lao Beyer, Guilherme V. Cavalheiro and Sertac Karaman"
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 year: "2024"
 status: "in review"
