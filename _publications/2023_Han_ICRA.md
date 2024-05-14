@@ -18,7 +18,7 @@ school: "N/A"
 awards: "N/A"
 notes: ""
 include_on_website: true
-image: "dsk3dom23.png"
+image: "dsk3dom2023.png"
 links_to_code: "https://github.com/JuyeopHan/dsk3dom_public"
 links_to_video: "https://www.youtube.com/watch?v=TNpveqL181I"
 collection: publications
