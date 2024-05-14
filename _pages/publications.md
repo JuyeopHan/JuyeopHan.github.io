@@ -15,10 +15,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   {% endif %}
 {% endfor %}
 
-{% if show_preprints %}
-Pre-prints
+Publications
 ======
-{% endif %}
+
 {% for post in site.publications reversed %}
   {% if post.status == "in review" %}
     {% if post.include_on_website %}
@@ -27,9 +26,6 @@ Pre-prints
   {% endif %}
 {% endfor %}
 
-
-Publications
-======
 {% for post in site.publications reversed %}
   {% if post.status == "published" or post.status == "to appear" or post.status == "accepted" %}
     {% unless post.type contains "thesis" %}
