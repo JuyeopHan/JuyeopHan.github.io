@@ -1,17 +1,3 @@
-TODO:
-
-Main:
-- [ ] Update self-description
-- [ ] Update News
-
-CV:
-  - [ ] Update CV
-
-Publication
- - [ ] update preprints
- - [ ] update code / paper / video link
- - [ ] add images
-
 # Instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
