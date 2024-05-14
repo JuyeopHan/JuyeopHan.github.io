@@ -1,6 +1,6 @@
 ---
 title: "DS-K3DOM: 3-D Dynamic Occupancy Mapping with Kernel Inference and Dempster-Shafer Evidential Theory"
-authors: "Juyeop Han*, Youngjae Min*, Hyeok-Joo Chae, Byeong-Min Jeong, Han-Lim Choi (*equal contributions)"
+authors: "Juyeop Han*, Youngjae Min*, Hyeok-Joo Chae, Byeong-Min Jeong and Han-Lim Choi (*equal contributions)"
 venue: "IEEE International Conference on Robotics and Automation (ICRA)"
 year: "2023"
 status: "published"
