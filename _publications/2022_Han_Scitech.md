@@ -22,5 +22,5 @@ image: "scitech22.png"
 links_to_code: ""
 links_to_video: ""
 collection: publications
-permalink: /publication/2021-05-Everett21_ICRA.html
+permalink: /publication/2022_Han_Scitech.html
 ---
