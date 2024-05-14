@@ -1,6 +1,6 @@
 ---
 title: "Pseudospectral Method-based Safe Motion Planning for Quadrotors in a Cluttered Environment"
-authors: "Juyeop Han**, Min-Jea Tahk and Han-Lim Choi"
+authors: "Juyeop Han*, Min-Jea Tahk and Han-Lim Choi"
 venue: "AIAA SCITECH Forum"
 year: "2022"
 status: "published"
