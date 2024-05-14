@@ -1,10 +1,10 @@
 ---
 title: "Computing Forward Reachable Sets for Nonlinear Adaptive Multirotor Controllers"
-authors: "**Juyeop Han** and Han-Lim Choi"
+authors: "Juyeop Han and Han-Lim Choi"
 venue: "American Control Conference (ACC)"
 year: "2023"
 status: "published"
-arxiv: "arxiv.org/abs/2209.07780"
+arxiv: "https://arxiv.org/abs/2209.07780"
 official_link: ""
 doi: ""
 volume: "N/A"
