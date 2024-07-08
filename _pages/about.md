@@ -15,7 +15,13 @@ I recieved MS degree in Aerospace Engineering at [KAIST](https://www.kaist.ac.kr
  <br/> <br/> <br/>
 ## **News**
 
- **\[1 SEP 2023\]** I have joined [AERA Lab](https://aera.mit.edu/) at MIT as a graduate research assistant!
+**\[03 JUL 2024\]** I have been selected to receive a 2024-2025 MathWorks Mechanical Engineering Fellowship.
+
+ **\[30 JUN 2024\]** My paper on *[NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification](https://arxiv.org/abs/2404.01400)* has been accepted for oral presentation at IROS 2024.
+
+ **\[30 JUN 2024\]** My paper on *[NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification](https://arxiv.org/abs/2404.01400)* has been accepted for oral presentation at IROS 2024.
+
+ **\[01 SEP 2023\]** I have joined [AERA Lab](https://aera.mit.edu/) at MIT as a graduate research assistant!
 
  **\[10 JUL 2023\]** Our RSS *[Inference and Decision Making for Autonomous Vehicles (IDMAV)](https://sites.google.com/view/idmav-workshop-rss-2023/home)* workshop was successfully held.
  
