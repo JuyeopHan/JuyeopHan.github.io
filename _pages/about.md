@@ -15,9 +15,7 @@ I recieved MS degree in Aerospace Engineering at [KAIST](https://www.kaist.ac.kr
  <br/> <br/> <br/>
 ## **News**
 
-**\[03 JUL 2024\]** I have been selected to receive a 2024-2025 MathWorks Mechanical Engineering Fellowship.
-
- **\[30 JUN 2024\]** My paper on *[NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification](https://arxiv.org/abs/2404.01400)* has been accepted for oral presentation at IROS 2024.
+**\[03 JUL 2024\]** I have been selected to receive a 2024-2025 [MathWorks Mechanical Engineering Fellowship](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/).
 
  **\[30 JUN 2024\]** My paper on *[NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification](https://arxiv.org/abs/2404.01400)* has been accepted for oral presentation at IROS 2024.
 
