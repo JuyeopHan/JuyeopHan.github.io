@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Juyeop Han"
 title_separator          : "-"
 name                     : &name "Juyeop Han"
-description              : &description "Ph.D. Student at MIT LIDS"
+description              : &description "Ph.D. Candidate at MIT LIDS"
 url                      : https://juyeophan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JuyeopHan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Juyeop Han"
   avatar           : "juyeophan.jpg"
-  bio              : "Ph.D. Student at MIT"
+  bio              : "Ph.D. Candidate at MIT"
   location         : 
   employer         :
   pubmed           : 

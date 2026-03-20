@@ -12,108 +12,64 @@
   {% assign title = post.title %}
 {% endif %}
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            border: none;
-        }
-        td {
-            border: none;
-        }
-    </style>
-</head>
-<body>
- <table>
- <tr>
- <td style="width: 250px"><img src="/images/publications/{{ post.image }}" width=200px style="border: 2px solid black; float:left; margin-right:15px; border-radius: 20px;"/></td>
- <td>
- <div>
-    <h2 style="margin-top: 10px; margin-bottom: 0px;">{{ title }}</h2>
+{% assign authors = post.authors | replace: '"{o}', 'ö' | replace: '"{u}', 'ü' %}
+{% assign authors = authors | replace: 'Juyeop Han', '<strong>Juyeop Han</strong>' %}
 
-    <!-- Don't bold anyone's name -->
-    {% assign authors = post.authors %}
+<div class="pub-card">
+  {% if post.image != "" and post.image != nil %}
+  <div class="pub-card__image">
+    <img src="/images/publications/{{ post.image }}" alt="{{ title }}" />
+  </div>
+  {% endif %}
+  <div class="pub-card__body">
+    <h2>{{ title }}</h2>
 
-    <!-- Bold a particular author's name -->
-    <!-- {% assign authors = post.authors | replace_first: 'Michael Everett', '<b>Michael Everett</b>' %} -->
+    <div class="pub-card__authors">{{ authors }}</div>
 
-    {% assign authors = authors | replace: '"{o}', 'ö' %}
-    {% assign authors = authors | replace: '"{u}', 'ü' %}
-    <h3 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">{{ authors }}</h3>
     {% if post.type contains "thesis" %}
-      <h3 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">{% if post.type contains "phd" %}PhD{% else %}SM{% endif %} Thesis, {{ post.year }}</h3>
-      <h3 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">MIT Department of Mechanical Engineering</h3>
+      <div class="pub-card__venue">
+        {% if post.type contains "phd" %}PhD{% else %}SM{% endif %} Thesis, {{ post.year }} &mdash; MIT Department of Mechanical Engineering
+      </div>
     {% else %}
       {% if post.status == "in review" %}
-        <h3 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">
-          {{ post.year }} (in review)
-        </h3>
+        <div class="pub-card__venue">{{ post.year }} (in review)</div>
       {% else %}
-        <h3 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">
+        <div class="pub-card__venue">
           {{ post.venue }}, {{ post.year }}
-          {% if post.status == "accepted" %}
-            (accepted)
-          {% elsif post.status == "to appear" %}
-            (to appear)
-          {% else %}
-          {% endif %}
-        </h3>
+          {% if post.status == "accepted" %}(accepted){% elsif post.status == "to appear" %}(to appear){% endif %}
+        </div>
       {% endif %}
     {% endif %}
-    
 
-    {% if post.notes != "" %}
-      <h3 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">
-        {{ post.notes }}
-      </h3>
+    {% if post.notes != "" and post.notes != nil %}
+      <div class="pub-card__notes">{{ post.notes }}</div>
     {% endif %}
 
-    {% if post.awards != "N/A" %}
+    {% if post.awards != "N/A" and post.awards != "" and post.awards != nil %}
       {% assign awards = post.awards | split: ", " %}
       {% for award in awards %}
-        <h3 style="color: green; margin-top: 10px; margin-bottom: 0px;">
-          {{ award }}
-        </h3>
+        <div class="pub-card__award"><i class="fas fa-award"></i> {{ award }}</div>
       {% endfor %}
     {% endif %}
 
-    <h3 style="margin-top: 10px; margin-bottom: 0px;">
-        
-        <!-- Arxiv Paper -->
-        {% if post.arxiv != "" and post.arxiv != "N/A" %}
-          <a style="text-decoration: none;" href="{{ post.arxiv }}" target="_blank">Paper <i class="fa fa-file"></i></a>&nbsp;&nbsp;&nbsp;
-        {% endif %}
-        
-        <!-- Code -->
-        {% if post.links_to_code contains "," %}
-          {% assign codes = post.links_to_code | split: ", " %}
-          Code: [
-          {% for code in codes %}
-            {% assign code_info = code | split: ": " %}
-            <a style="text-decoration: none;" href="{{ code_info.last }}" target="_blank">{{ code_info.first }} <i class="fa fa-code"></i></a>
-            {% if code != codes.last %}
-              ,&nbsp;
-            {% endif %}
-          {% endfor %}
-          ]&nbsp;&nbsp;&nbsp;
-        {% elsif post.links_to_code != "" and post.links_to_code != "N/A" %}
-          <a style="text-decoration: none;" href="{{ post.links_to_code }}" target="_blank">Code <i class="fa fa-code"></i></a>&nbsp;&nbsp;&nbsp;
-        {% endif %}
+    <div class="pub-card__links">
+      {% if post.arxiv != "" and post.arxiv != "N/A" and post.arxiv != nil %}
+        <a href="{{ post.arxiv }}" target="_blank"><i class="fas fa-file-alt"></i> Paper</a>
+      {% endif %}
 
-        <!-- Video -->
-        {% if post.links_to_video != "" and post.links_to_video != "N/A" %}
-          <a style="text-decoration: none;" href="{{ post.links_to_video }}" target="_blank">Video <i class="fa fa-film"></i></a>&nbsp;&nbsp;&nbsp;
-        {% endif %}
-    </h3>
-<!--      <h5>
-         <a href="https://ieeexplore.ieee.org/document/9638658" target="_blank">IEEE Xplore <i class="fa fa-file"></i></a>
-         &nbsp;&nbsp;&nbsp;
-     </h5> -->
- </div>
- </td>
- </tr>
- </table>
+      {% if post.links_to_code contains "," %}
+        {% assign codes = post.links_to_code | split: ", " %}
+        {% for code in codes %}
+          {% assign code_info = code | split: ": " %}
+          <a href="{{ code_info.last }}" target="_blank"><i class="fas fa-code"></i> {{ code_info.first }}</a>
+        {% endfor %}
+      {% elsif post.links_to_code != "" and post.links_to_code != "N/A" and post.links_to_code != nil %}
+        <a href="{{ post.links_to_code }}" target="_blank"><i class="fas fa-code"></i> Code</a>
+      {% endif %}
+
+      {% if post.links_to_video != "" and post.links_to_video != "N/A" and post.links_to_video != nil %}
+        <a href="{{ post.links_to_video }}" target="_blank"><i class="fas fa-film"></i> Video</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
