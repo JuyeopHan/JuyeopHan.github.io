@@ -1,10 +1,10 @@
 ---
 title: "Construction of Digital Terrain Maps from Multi-view Satellite Imagery using Neural Volume Rendering"
-authors: "Josef Biberstein, Juyeop Han, Guilherme V. Cavalheiro and Sertac Karaman"
+authors: "Josef Biberstein, Juyeop Han, Guilherme Cavalheiro and Sertac Karaman"
 venue: "Under Review"
 year: "2025"
 status: "in review"
-arxiv: ""
+arxiv: "https://arxiv.org/abs/2508.01386"
 official_link: ""
 doi: ""
 volume: "N/A"
@@ -18,7 +18,7 @@ school: "N/A"
 awards: "N/A"
 notes: ""
 include_on_website: true
-image: ""
+image: "ntm25.jpg"
 links_to_code: ""
 links_to_video: ""
 collection: publications

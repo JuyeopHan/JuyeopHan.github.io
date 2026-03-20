@@ -3,6 +3,14 @@
    ========================================================================== */
 
 $accent-color: #2a7ae2;
+
+/* --------------------------------------------------------------------------
+   Author avatar — rounded rectangle instead of circle
+   -------------------------------------------------------------------------- */
+
+.author__avatar img {
+  border-radius: 15px !important;
+}
 $accent-light: lighten($accent-color, 40%);
 $accent-dark: darken($accent-color, 10%);
 $text-color: #333;

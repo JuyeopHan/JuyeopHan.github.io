@@ -4,7 +4,7 @@ authors: "Juyeop Han*, Youngjae Min*, Hyeok-Joo Chae, Byeong-Min Jeong and Han-L
 venue: "IEEE International Conference on Robotics and Automation (ICRA)"
 year: "2023"
 status: "published"
-arxiv: "https://arxiv.org/abs/2209.07764"
+arxiv: "https://ieeexplore.ieee.org/abstract/document/10160364"
 official_link: ""
 doi: ""
 volume: "N/A"
